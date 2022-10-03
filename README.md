@@ -1,5 +1,5 @@
 # CompactacaoRegistrosEmArquivos
-Projeto da disciplina de Estrutura de Dados 2 do curso Bacharelado em CIências da Computação Unesp RIo Claro
+Projeto da disciplina de Estrutura de Dados 2 do curso Bacharelado em Ciências da Computação - Unesp Rio Claro
 
 Objetivo: gerenciar os livros de uma biblioteca a partir de arquivos. Dados no arquivo insere: ISBN, Titulo, Autor, Ano.
 Proposta: 
